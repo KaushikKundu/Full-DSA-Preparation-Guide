@@ -1,4 +1,4 @@
-public class Solution {
+public class Gcdbrute {
     public static int calcGCD(int n, int m) {
         // Write your code here.
         int gcd = 0;
