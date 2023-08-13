@@ -24,6 +24,7 @@ public class Ceiling {
                 return arr[mid];
             }
         }
+        /*if we reach here then there is no element greater than the given number*/
         return start;
     }
 }
